@@ -6,5 +6,13 @@ For details, please visit https://youtu.be/ruLarVIQp2I
 ## Notice
 Please upload every source (photos, videoes, etc) into this repo. BowenLee thanks everyone!
 
+## Method
+```
+git add *.jpg
+git add *.mp4
+git commit -m "add new source"
+git push 
+```
+
 ## New video
 Coming soon...
