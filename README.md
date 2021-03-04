@@ -4,7 +4,7 @@
 For details, please visit https://youtu.be/ruLarVIQp2I
 
 ## Notice
-Please upload every source (photos, videoes, etc) into this repo. BowenLee thanks everyone!
+All copyright reserved. BowenLee thanks everyone!
 
 ## Method
 ```
