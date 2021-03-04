@@ -4,7 +4,7 @@
 For details, please visit https://youtu.be/ruLarVIQp2I
 
 ## Notice
-All copyright reserved. BowenLee thanks everyone!
+All copyrights reserved. BowenLee thanks everyone!
 
 ## Method
 ```
